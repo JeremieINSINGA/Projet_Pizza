@@ -1,0 +1,15 @@
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.csproj.AssemblyReference.cache
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.AssemblyInfoInputs.cache
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.AssemblyInfo.cs
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.csproj.CoreCompileInputs.cache
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/bin/Debug/net6.0/AppPizza
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/bin/Debug/net6.0/AppPizza.deps.json
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/bin/Debug/net6.0/AppPizza.runtimeconfig.json
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/bin/Debug/net6.0/AppPizza.dll
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/bin/Debug/net6.0/AppPizza.pdb
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.dll
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/refint/AppPizza.dll
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.pdb
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/AppPizza.genruntimeconfig.cache
+/Users/jeremieinsinga/Library/Mobile Documents/com~apple~CloudDocs/test/AppPizza/obj/Debug/net6.0/ref/AppPizza.dll
